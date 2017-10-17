@@ -33,7 +33,7 @@ The school would like to know which question they need to spend some additional 
 Firstly, let's see how is this school's performance in Y9 Numeracy test from 2012 to 2017.
 In the below diagram, the blue part is the percentage of students who has reached band 8 and the orange part is the percentage of students who has scored Band 7 and below.
 
-![_config.yml]({{ site.baseurl }}/images/Slide4.png)
+![_config.yml]({{ site.baseurl }}/images/y9num.png)
 
 
 The average percentage of the students who has pass the numeracy test is 83%, which is pretty good because the average percentage for NSW students in 2016 is around 50%.
