@@ -25,7 +25,7 @@ My clinet for this project is a Public High School, which is one of the largest 
 The school would like to know which question they need to spend some additional time on to improve the Y9 Naplan score. They also want to identify thoes students at risk of not meeting the minimum standard, which is Band 8 in y9 naplan test. 
 
 
-**NAPLAN includes both Literacy and Numeracy test, my project will focus on the numeracy test only.**
+_NAPLAN includes both Literacy and Numeracy test, my project will focus on the numeracy test only._
 
 ## Year 9 Numeracy
 Firstly, let's see how is this school's performance in Y9 Numeracy test from 2012 to 2017.
@@ -35,7 +35,13 @@ The average percentage of the students who has pass the numeracy test is 83%, wh
 
 The orange part is the target of my project. I need to identify those students based on their previous performance. 
 
+## Exam Questions Analysis
 
+Before the prediction, I would like to find out is there any particular question type that teachers need to spend some additional time on.
+
+
+
+This plot shows the 10 Questions with lowest average score. All the question score is on a scale of 0-1. The tops 3 is Right-angled Triangles, volume and area, which has an average score less than 0.4. That means more than 60% students failed to answer those questions. Thus, those are the questions that teachers should pay more attention on.
 
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
