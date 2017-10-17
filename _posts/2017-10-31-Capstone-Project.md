@@ -4,6 +4,8 @@ title: Capstone Project - A Public High School
 published: true
 ---
 
+![_config.yml]({{ site.baseurl }}/images/Slide1.png)
+
 ## NAPLAN Introduction
 
 NAPLAN is National Assessment Program – Literacy and Numeracy
@@ -25,7 +27,7 @@ My clinet for this project is a Public High School, which is one of the largest 
 The school would like to know which question they need to spend some additional time on to improve the Y9 Naplan score. They also want to identify thoes students at risk of not meeting the minimum standard, which is Band 8 in y9 naplan test. 
 
 
-_NAPLAN includes both Literacy and Numeracy test, my project will focus on the numeracy test only._
+**NAPLAN includes both Literacy and Numeracy test, my project will focus on the numeracy test only.**
 
 ## Year 9 Numeracy
 Firstly, let's see how is this school's performance in Y9 Numeracy test from 2012 to 2017.
