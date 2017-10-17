@@ -4,7 +4,7 @@ title: Capstone Project - A Public High School
 published: true
 ---
 
-![_config.yml]({{ site.baseurl }}/images/Slide1.png)
+![_config.yml]({{ site.baseurl }}/images/students.png)
 
 ## NAPLAN Introduction
 
