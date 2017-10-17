@@ -16,7 +16,7 @@ The NAPLAN tests would be used to determine if students were performing either a
 
 The common assessment scale has ten bands. Band 1 is the lowest band and band 10 is the highest band.
 
-From 2017, year 9 students need to get a mark of Band 8 or above in their NAPLAN tests to be to be eligible for attaining HSC.
+From 2017, year 9 students need to get a mark of _**Band 8**_ or above in their NAPLAN tests to be to be eligible for attaining HSC.
 
 Students who don't meet the minimum standard in their year 9 NAPLAN will have to sit extra test to reach HSC.
 
