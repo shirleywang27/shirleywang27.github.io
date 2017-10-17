@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capstone Project - A Public High School
+title: Capstone Project - NAPLAN Analysis for a Public High School
 published: true
 ---
 
