@@ -26,6 +26,7 @@ My clinet for this project is a Public High School, which is one of the largest 
 
 The school would like to know which question they need to spend some additional time on to improve the Y9 Naplan score. They also want to identify thoes students at risk of not meeting the minimum standard, which is Band 8 in y9 naplan test. 
 
+![_config.yml]({{ site.baseurl }}/images/q&band.png)
 
 **NAPLAN includes both Literacy and Numeracy test, my project will focus on the numeracy test only.**
 
