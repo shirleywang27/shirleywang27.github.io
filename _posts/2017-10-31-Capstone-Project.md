@@ -1,7 +1,42 @@
 ---
 layout: post
-title: Capstone Project - Cheltenham Girls High School
+title: Capstone Project - A Public High School
+published: true
 ---
+
+## NAPLAN Introduction
+
+NAPLAN is National Assessment Program – Literacy and Numeracy
+
+It is a national test for Australia Students in Year 3, 5, 7 and 9.
+
+The NAPLAN tests would be used to determine if students were performing either above, at or below the National Minimum Standard.
+
+The common assessment scale has ten bands. Band 1 is the lowest band and band 10 is the highest band.
+
+From 2017, year 9 students need to get a mark of Band 8 or above in their NAPLAN tests to be to be eligible for attaining HSC.
+
+Students who don't meet the minimum standard in their year 9 NAPLAN will have to sit extra test to reach HSC.
+
+## The Public High School
+
+My clinet for this project is a Public High School, which is one of the largest government schools in NSW.
+
+The school would like to know which question they need to spend some additional time on to improve the Y9 Naplan score. They also want to identify thoes students at risk of not meeting the minimum standard, which is Band 8 in y9 naplan test. 
+
+
+**NAPLAN includes both Literacy and Numeracy test, my project will focus on the numeracy test only.**
+
+## Year 9 Numeracy
+Firstly, let's see how is this school's performance in Y9 Numeracy test from 2012 to 2017.
+In this diagram, the blue part is the percentage of students who has reached band 8 and the orange part is the percentage of students who has scored Band 7 and below.
+
+The average percentage of the students who has pass the numeracy test is 83%, which is pretty good because the average percentage for NSW students in 2016 is around 50%.
+
+The orange part is the target of my project. I need to identify those students based on their previous performance. 
+
+
+
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
