@@ -56,10 +56,11 @@ There is another interesting feature in the questions that is the verbs.
 
 By understanding the verbs, students recognize what the examination questions required and expected.
 
-![_config.yml]({{ site.baseurl }}/images/verbs_all.png)
+![_config.yml]({{ site.baseurl }}/images/verbs_all2.png)
 
-The left picture shows all the verbs that has been used in Y9 Naplan test from 2012 to 2017. It shows how often a verb appears in exam questions. Calculate, identify and solve are the three most frequently used verbs. 
+The left picture shows all the verbs that has been used in Y9 Naplan Numeracy test from 2012 to 2017. It shows how often a verb appears in exam questions. Calculate, identify and solve are the three most frequently used verbs. 
 
+![_config.yml]({{ site.baseurl }}/images/verbs_all3.png)
 
 The right chart displays the 5 verbs with lowest average score. The reason why those verbs get a lower score is probably because they do not appear frequently in the exam questions. student were not sure what the questions is asking. Their answer is not on the right direction.
 
