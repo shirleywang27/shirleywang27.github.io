@@ -88,7 +88,7 @@ The evaluation tool I used is cross validation, train split test and roc auc sco
 I use this model to predict the Numeracy Band for student who will take Y9 Naplan in 2018 and 2019.
 
 In the table below, high risk indicates those students has a very high probability of failing the y9 test. The minimal risk implies that those student are very likely to reach Band 8 or above.
-There are around 15% students are in Medium and High risk that teachers should pay more attention on.
+There are around 12% - 16% students are in Medium and High risk that teachers should pay more attention on.
 
 ![_config.yml]({{ site.baseurl }}/images/pred_2018.png)
 
