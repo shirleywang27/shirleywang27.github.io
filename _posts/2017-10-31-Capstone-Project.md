@@ -45,9 +45,9 @@ The orange part is the target of my project. I need to identify those students b
 
 Before the prediction, I would like to find out is there any particular question type that teachers need to spend some additional time on.
 
+![_config.yml]({{ site.baseurl }}/images/10questions.png)
 
-
-This plot shows the 10 Questions with lowest average score. All the question score is on a scale of 0-1. The tops 3 is Right-angled Triangles, volume and area, which has an average score less than 0.4. That means more than 60% students failed to answer those questions. Thus, those are the questions that teachers should pay more attention on.
+The plot above shows the 10 Questions with lowest average score. All the question score is on a scale of 0-1. The tops 3 is Right-angled Triangles, volume and area, which has an average score less than 0.4. That means more than 60% students failed to answer those questions. Thus, those are the questions that teachers should pay more attention on.
 
 
 ## Verbs
@@ -56,6 +56,7 @@ There is another interesting feature in the questions that is the verbs.
 
 By understanding the verbs, students recognize what the examination questions required and expected.
 
+![_config.yml]({{ site.baseurl }}/images/verbs.png)![_config.yml]({{ site.baseurl }}/images/5verbs.png)
 
 This picture shows all the verbs that has been used in Y9 Naplan test from 2012 to 2017. It shows how often a verb appears in exam questions. Calculate, identify and solve are the three most frequently used verbs. 
 
@@ -104,13 +105,3 @@ NAPLAN include both Literacy and Numeracy test. I will complete the Literacy par
 Furthermore, I would like to make a webpage. The website visitors only need to submit the Student id, if this student is in my dataset. The webpage will shows that for each subject, what is the risk level for Y9 NAPLAN and the top 3 questions she need to improve.
 
 
-
-
-
-
-
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
