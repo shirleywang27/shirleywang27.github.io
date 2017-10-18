@@ -65,6 +65,8 @@ The upper right chart displays the 5 verbs with lowest average score. The reason
 So I suggest that teachers should spend addition time on explaining how to answer the questions with those verbs. 
 
 ## Prediction
+
+![_config.yml]({{ site.baseurl }}/images/predictions.png)
  
 The target is to predict the outcome of this student whether she can reach band 8 in Year 9 or not. The variables take into consideration is the performance in Y7 Numeracy Naplan test, that is the score for each question for this student.
 
@@ -74,7 +76,7 @@ After training this model, here are the most predictable questions in the model:
 
 1. Fractions, Decimals and Percentages 
 2. Data 
-3. Patterns and Algebra.
+3. Patterns and Algebra
 
 Thus, this model tells me that if a student gain a higher score in those 3 question in Y7 NAPLAN, she is more likely to pass the y9 exam.
 
