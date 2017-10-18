@@ -68,7 +68,7 @@ So I suggest that teachers should spend addition time on explaining how to answe
 
 ![_config.yml]({{ site.baseurl }}/images/predictions.png)
  
-The target is to predict the outcome of this student whether she can reach band 8 in Year 9 or not. The variables take into consideration is the performance in Y7 Numeracy Naplan test, that is the score for each question for this student.
+The target is to predict the outcome of this student whether she can reach Band 8 in Year 9 or not. The variables take into consideration is the performance in Y7 Numeracy Naplan test, that is the score for each question for this student.
 
 After comparing with different models, such as decision tree, k nearest neighbours, I have chosen Logistic Regression as my prediction model. The reason why I choose this model is because this prediction is roughly linear, that means if a student is doing well in Y7 test then she is more likely to pass her Y9 test. Logistic Regression is a liner model which will work better in this situation.
 
@@ -76,9 +76,9 @@ After training this model, here are the most predictable questions in the model:
 
 1. Fractions, Decimals and Percentages 
 2. Data 
-3. Patterns and Algebra
+3. Multiplication and Division
 
-Thus, this model tells me that if a student gain a higher score in those 3 question in Y7 NAPLAN, she is more likely to pass the y9 exam.
+Thus, this model tells us that if a student gain a higher score in those 3 questions in Y7 NAPLAN, she is more likely to pass the y9 exam.
 
 The evaluation tool I used is cross validation, train split test and roc auc score. The average score is 89%.
 
@@ -87,14 +87,16 @@ The evaluation tool I used is cross validation, train split test and roc auc sco
 
 I use this model to predict the Numeracy Band for student who will take Y9 Naplan in 2018 and 2019.
 
-In this table, high risk indicates those students has a very high probability of failing the y9 test. The minimal risk implies that those student are very likely to reach Band 8 or above.
+In the table below, high risk indicates those students has a very high probability of failing the y9 test. The minimal risk implies that those student are very likely to reach Band 8 or above.
 There are around 15% students are in Medium and High risk that teachers should pay more attention on.
 
-
+![_config.yml]({{ site.baseurl }}/images/pred_2018.png)
 
 Another application for my model is to find out the performance for a particular student. Here are 3 random student I have selected from 2018 students. 
 
-By giving the student ID, if this student information is in my dataset this model can shows the student's risk level and the top 3 questions that she need addition help with.
+![_config.yml]({{ site.baseurl }}/images/pred_stud.png)
+
+By giving the student ID, if this student information is in my dataset, this model can shows the student's risk level and the top 3 questions that she need addition help with.
 
 
 ## Future Works
