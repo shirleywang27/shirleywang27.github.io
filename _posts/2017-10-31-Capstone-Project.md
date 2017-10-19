@@ -8,7 +8,7 @@ published: true
 
 ## NAPLAN Introduction
 
-NAPLAN is National Assessment Program – Literacy and Numeracy
+NAPLAN is National Assessment Program - Literacy and Numeracy
 
 It is a national test for Australia Students in Year 3, 5, 7 and 9.
 
@@ -18,13 +18,13 @@ The common assessment scale has ten bands. Band 1 is the lowest band and band 10
 
 From 2017, year 9 students need to get a mark of _**Band 8**_ or above in their NAPLAN tests to be to be eligible for attaining HSC.
 
-Students who don't meet the minimum standard in their year 9 NAPLAN will have to sit extra test to reach HSC.
+Students who don't meet the minimum standard in their year 9 NAPLAN will have to sit extra tests to reach HSC.
 
 ## The Public High School
 
 My clinet for this project is a Public High School, which is one of the largest government schools in NSW.
 
-The school would like to know which question they need to spend some additional time on to improve the Y9 Naplan score. They also want to identify thoes students at risk of not meeting the minimum standard, which is Band 8 in y9 naplan test. 
+The school would like to know which question they need to spend some additional time on to improve the Y9 Naplan score. They also want to identify those students at risk of not meeting the minimum standard, which is Band 8 in y9 naplan test. 
 
 ![_config.yml]({{ site.baseurl }}/images/q&band.png)
 
@@ -70,7 +70,7 @@ So I suggest that teachers should spend addition time on explaining how to answe
  
 The target is to predict the outcome of this student whether she can reach Band 8 in Year 9 or not. The variables take into consideration is the performance in Y7 Numeracy Naplan test, that is the score for each question for this student.
 
-After comparing with different models, such as decision tree, k nearest neighbours, I have chosen Logistic Regression as my prediction model. The reason why I choose this model is because this prediction is roughly linear, that means if a student is doing well in Y7 test then she is more likely to pass her Y9 test. Logistic Regression is a liner model which will work better in this situation.
+After comparing with different models, such as decision tree, k nearest neighbours, I have chosen Logistic Regression as my prediction model. The reason why I choose this model is because this prediction is roughly linear, that means if a student is doing well in Y7 test then she is more likely to pass her Y9 test. Logistic Regression is a linear model which will work better in this situation.
 
 After training this model, here are the most predictable questions in the model: 
 
@@ -106,5 +106,3 @@ There are some other features that may affect the Y9 Naplan Band. To increase th
 NAPLAN include both Literacy and Numeracy test. I will complete the Literacy part analysis.
 
 Furthermore, I would like to make a webpage. The website visitors only need to submit the Student id, if this student is in my dataset. The webpage will shows that for each subject, what is the risk level for Y9 NAPLAN and the top 3 questions she need to improve.
-
-
