@@ -103,6 +103,4 @@ By giving the student ID, if this student information is in my dataset, this mod
 
 There are some other features that may affect the Y9 Naplan Band. To increase the accuracy, some factors may be taken into consideration. For example, does a student like math or hate math? Do they have extra lessons outside the school during the weekend?
 
-NAPLAN include both Literacy and Numeracy test. I will complete the Literacy part analysis.
-
 Furthermore, I would like to make a webpage. The website visitors only need to submit the Student id, if this student is in my dataset. The webpage will shows that for each subject, what is the risk level for Y9 NAPLAN and the top 3 questions she need to improve.
