@@ -78,7 +78,7 @@ After training this model, here are the most predictable questions in the model:
 2. Data 
 3. Multiplication and Division
 
-Thus, this model tells us that if a student gain a higher score in those 3 questions in Y7 NAPLAN, she is more likely to pass the y9 exam.
+Thus, this model tells us that if a student gains a higher score in those 3 questions in Y7 NAPLAN, she is more likely to pass the y9 exam.
 
 The evaluation tool I used is cross validation, train split test and roc auc score. The average score is 89%.
 
@@ -87,7 +87,7 @@ The evaluation tool I used is cross validation, train split test and roc auc sco
 
 I use this model to predict the Numeracy Band for student who will take Y9 Naplan in 2018 and 2019.
 
-In the table below, high risk indicates those students has a very high probability of scoring band 7 or below in Y9 test. The minimal risk implies that those student are very likely to reach Band 8 or above.
+In the table below, high risk indicates those students has a very high probability of scoring band 7 or below in Y9 test. The minimal risk implies that those students are very likely to reach Band 8 or above.
 There are around 12% - 16% students are in Medium and High risk that teachers should pay more attention on.
 
 ![_config.yml]({{ site.baseurl }}/images/pred_2018.png)
@@ -96,7 +96,7 @@ Another application for my model is to find out the performance for a particular
 
 ![_config.yml]({{ site.baseurl }}/images/pred_stud.png)
 
-By giving the student ID, if this student information is in my dataset, this model can shows the student's risk level and the top 3 questions that she need addition help with.
+By giving the student ID, if this student information is in my dataset, this model can show the student's risk level and the top 3 questions that she need addition help with.
 
 
 ## Future Works
